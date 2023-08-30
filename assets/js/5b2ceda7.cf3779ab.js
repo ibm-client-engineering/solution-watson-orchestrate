@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[768],{6223:e=>{e.exports=JSON.parse('[{"label":"log","permalink":"/solution-watson-orchestrate/blog/tags/log","count":1},{"label":"sprint","permalink":"/solution-watson-orchestrate/blog/tags/sprint","count":1}]')}}]);
