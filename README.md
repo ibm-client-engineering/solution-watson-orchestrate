@@ -1,5 +1,5 @@
 ### Prerequisites
-
+* Watson Orchestrate environment with AWS Lambda skill
 * AWS credentials for AWS Lambda
 * AWS CLI installed
 * Permissions to Create Roles, Create functions, PassRole, AttachRolePolicy
