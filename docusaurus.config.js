@@ -130,7 +130,7 @@ async function createconfig() {
           },
         },
         navbar: {
-          title: '| IBM FileNet on AWS EKS',
+          title: '| Watson Orchestrate w/ WatsonX, BAW, AWS Lambda ',
           logo: {
             alt: 'My Site Logo',
             src: 'img/logo.svg',
